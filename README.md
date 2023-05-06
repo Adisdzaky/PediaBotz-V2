@@ -13,7 +13,7 @@
 <a href="#"><img title="PediaBotz MULTI DEVICE" src="https://img.shields.io/badge/HARUKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeoneofficial/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Adisdzaky/PediaBotz-V2"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficial?color=red&style=flat-square"></a>
@@ -35,8 +35,89 @@
 </p>
 </div>
 
-
 ---
+
+## ```Connect With Me 📞``` 
+
+## ```Whatsapp``` <a href="https://wa.me/6285877276864"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287753812675) 
+---------
+
+### a little about this bot
+- ✔️ | **Simple** 
+- ✔️ | **Button Template** 
+- ✔️ | **Multi Device** 
+- ✔️ | **Button Document(Experiment)** 
+---------
+### Some of the features include
+- ✔️ | Downloader 
+- ✔️ | Internet 
+- ✔️ | Game Rpg 
+- ✔️ | Nsfw 
+- ✔️ | Sticker 
+- ✔️ | Game 
+- ✔️ | Kerang Ajaib 
+- ✔️ | Quotes
+- ✔️ | Anime 
+- ✔️ | Premium 
+- ✔️ | Tools 
+- ✔️ | Exec 
+- ✔️ | React 
+- ✔️ | Menfess Balas
+---------
+
+## ```Nama Session```
+[<rullzy.data.json>]
+
+## `--self`
+* Activate self mode (Ignores other)
+
+## `--pconly`
+* If that chat not from private bot, bot will ignore
+
+## `--gconly`
+* If that chat not from group, bot will ignore
+
+## `--swonly`
+* If that chat not from status, bot will ignore
+
+## `--prefix <prefixes>`
+* `prefixes` are seperated by each character
+Set prefix
+
+## `--server`
+* Used for [heroku](https://heroku.com/) or scan through website
+
+## `--restrict`
+* Enables restricted plugins (which can lead your number to be **banned** if used too often)
+* Group Administration `add, kick`
+
+## `--img`
+* Enable image inspector through terminal
+
+## `--autoread`
+* If enabled, all incoming messages will be marked as read
+
+## `--nyimak`
+* No bot, just print received messages and add users to database
+
+## `--test`
+* **Development** Testing Mode
+
+---------
+
+### 📮 S&K
+1. Not For Sale
+2. Don't forget give star this repo
+3. Follow Github
+4. Don't use this repository wrong!
+5. If you have problem chat me in owner number
+
+---------
+
+### ❗ Note : Untuk apikey kamu bisa beli ke website itu sendiri :D
+
+---------
 
 # Instalasi
 ## FOR REPLIT USER
@@ -112,3 +193,7 @@
 - [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
 - [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
 
+----------
+
+## ```Recode By ✏️```
+[![AdisDzaky](https://telegra.ph/file/8a1c663c84751c10baf65.jpg?size=20)](https://github.com/Adisdzaky)
