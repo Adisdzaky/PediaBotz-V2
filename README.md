@@ -196,4 +196,4 @@ Set prefix
 ----------
 
 ## ```Recode By ✏️```
-[![AdisDzaky](https://telegra.ph/file/8a1c663c84751c10baf65.jpg?size=20)](https://github.com/Adisdzaky)
+[AdisDzaky](https://github.com/Adisdzaky)
